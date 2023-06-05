@@ -1,0 +1,806 @@
+
+@media(min-width: 360px){
+    .mobilemenu .menu {
+        display: block;
+        z-index: 99;
+    }
+    .sec-menu{
+        display: none;
+    }
+    .right-side {
+        display: none;
+    }
+    .logophoto {
+        width: 5%;
+    }
+    .b-content h1 {
+        font-size: 30px;
+    }
+    .logoname {
+        font-size: 16px;
+    }
+    .b-content p{
+        display: none;
+    }
+    .background-images .slick-prev {
+      display: none !important;
+    }
+
+    .background-images .slick-next {
+        display: none !important;
+    }
+    .b-content {
+        width: 77%;
+    }
+    .sale-section {
+        bottom: -48%;
+ }
+ .title {
+    font-size: 11px;
+    margin: 0 4px;
+}
+.fill {
+    padding: 0px 10px;
+    width: 96%;
+}
+.menu-heading p {
+    font-size: 15px;
+}
+.fill::placeholder{
+    font-size: 16px;
+}
+.search {
+    width: 31%;
+}
+.search a {
+    font-size: 16px;
+}
+.trusted-second-section {
+    padding: 102px 0 0 0;
+    text-align: center;
+}
+.rating{
+    margin-left: 45px;
+}
+.works-photo {
+    width: 7%;
+}
+.trusted-photo {
+    width: 61%;
+    display: inline-block;
+}
+.heading {
+    font-size: 23px;
+}
+.paragraph {
+    font-size: 14px;
+}
+.sec-but {
+    width: 26%;
+    display: inline-block;
+}
+.sec-but a {
+    font-size: 16px;
+}
+.caption{
+    font-size: 19px;
+}
+.para {
+    font-size: 13px;
+    text-align: justify;
+}
+.image-gallery{
+    text-align: center;
+}
+.photo {
+    width: 75%;
+    display: inline-block;
+}
+.photo-content h5{
+    font-size: 17px;
+}
+.testimonial {
+    width: 74%;
+    height: 400px;
+    padding: 20px 56px;
+}
+
+.review {
+    font-size: 15px;
+}
+.contact a {
+    font-size: 16px;
+}
+.contact{
+    width: 24%;
+}
+.footer-logo {
+    width: 5%;
+}
+.foot-para, .copy {
+    font-size: 15px;
+}
+.fa-brands {
+    font-size: 21px;
+}
+.footer-title{
+    width: 73%;
+}
+#button{
+    height: 30px;
+    width: 30px;
+    
+}
+#button:after{
+    font-size: 1em;
+    line-height: 37px;
+}
+.menu .menubtn {
+    width: 20px;
+    height: 20px;
+}
+.parallax{
+    height: 400px;
+}
+}
+@media(min-width: 412px){
+    .sec-menu{
+        display: none;
+    }
+    .mobilemenu .menu {
+        display: block;
+        z-index: 99;
+    }
+
+    .right-side {
+        display: none;
+    }
+    .logophoto {
+        width: 5%;
+    }
+    .b-content h1 {
+        font-size: 30px;
+    }
+    .logoname {
+        font-size: 20px;
+    }
+    .b-content p{
+        display: none;
+    }
+    .background-images .slick-prev {
+      display: none !important;
+    }
+
+    .background-images .slick-next {
+        display: none !important;
+    }
+    .b-content {
+        width: 67%;
+    }
+    .sale-section {
+        bottom: -44%;
+ }
+ .title {
+    font-size: 13px;
+    margin: 0 4px;
+}
+.fill {
+    padding: 5px 10px;
+    width: 96%;
+}
+.menu-heading p {
+    font-size: 17px;
+}
+.fill::placeholder{
+    font-size: 16px;
+}
+.search {
+    width: 26%;
+}
+.search a {
+    font-size: 16px;
+}
+.trusted-second-section {
+    padding: 90px 0 0 0;
+    text-align: center;
+}
+.works-photo {
+    width: 7%;
+}
+.trusted-photo {
+    width: 61%;
+    display: inline-block;
+}
+.heading {
+    font-size: 23px;
+}
+.paragraph {
+    font-size: 14px;
+}
+.sec-but {
+    width: 26%;
+    display: inline-block;
+}
+.sec-but a {
+    font-size: 16px;
+}
+.caption{
+    font-size: 19px;
+}
+.para {
+    font-size: 13px;
+    text-align: justify;
+}
+.image-gallery{
+    text-align: center;
+}
+i{
+    height: 400px;
+}
+.photo{
+    width: 88%;
+    display: inline-block;
+}
+.testimonial{
+    height: 400px;
+    padding: 20px 56px;
+}
+.parallax{
+    height: 400px;
+}
+.photo-content h5{
+    font-size: 17px;
+}
+.testimonial {
+    width: 66%;
+}
+
+.review {
+    font-size: 15px;
+}
+.contact a {
+    font-size: 16px;
+}
+.contact{
+    width: 23%;
+}
+.footer-logo {
+    width: 5%;
+}
+.foot-para, .copy {
+    font-size: 15px;
+}
+.fa-brands {
+    font-size: 21px;
+}
+.footer-title{
+    width: 76%;
+} 
+.menu .menubtn {
+    width: 20px;
+    height: 20px;
+}
+}
+
+@media(min-width: 576px){
+    .mobilemenu .menu {
+        display: block;
+        z-index: 99;
+    }
+
+    .right-side {
+        display: none;
+    }
+    .logophoto {
+        width: 5%;
+    }
+    .b-content h1 {
+        font-size: 30px;
+    }
+    .logoname {
+        font-size: 20px;
+    }
+    .b-content p{
+        display: none;
+    }
+    .background-images .slick-prev {
+      display: none !important;
+    }
+
+    .background-images .slick-next {
+        display: none !important;
+    }
+    .b-content {
+        width: 51%;
+    }
+    .sale-section {
+        bottom: -25%;
+ }
+ .title {
+    font-size: 13px;
+    margin: 0 4px;
+}
+.fill {
+    padding: 5px 10px;
+    width: 96%;
+}
+.menu-heading p {
+    font-size: 17px;
+}
+.fill::placeholder{
+    font-size: 16px;
+}
+.search a {
+    font-size: 16px;
+}
+.trusted-second-section {
+    padding: 76px 0 0 0;
+    text-align: center;
+}
+.works-photo {
+    width: 7%;
+}
+.trusted-photo {
+    width: 61%;
+    display: inline-block;
+}
+.heading {
+    font-size: 23px;
+}
+.paragraph {
+    font-size: 14px;
+}
+.sec-but {
+    width: 26%;
+    display: inline-block;
+}
+.sec-but a {
+    font-size: 16px;
+}
+.caption{
+    font-size: 19px;
+}
+.para {
+    font-size: 13px;
+    text-align: justify;
+}
+.image-gallery{
+    text-align: center;
+}
+.photo{
+    width: 50%;
+    display: inline-block;
+}
+.photo-content h5{
+    font-size: 17px;
+}
+.testimonial {
+    width: 58%;
+}
+
+.review {
+    font-size: 15px;
+}
+.contact a {
+    font-size: 16px;
+}
+.footer-logo {
+    width: 5%;
+}
+.foot-para, .copy {
+    font-size: 15px;
+}
+.fa-brands {
+    font-size: 21px;
+}
+.footer-title{
+    width: 76%;
+} 
+.menu .menubtn {
+    width: 20px;
+    height: 20px;
+}
+.works-photo {
+    width: 12%;
+}
+.contact {
+    width: 13%;
+}
+}
+
+@media(min-width: 768px) {
+    .mobilemenu .menu {
+        display: block;
+        z-index: 99;
+    }
+    .sec-menu{
+        display: none;
+    }
+    .right-side {
+        display: none;
+    }
+    .logophoto {
+        width: 5%;
+    }
+    .b-content h1 {
+        font-size: 41px;
+    }
+    .b-content p{
+        display: none;
+    }
+    .b-content {
+        width: 51%;
+    }
+    .sale-section {
+        bottom: -20%;
+ }
+ .title {
+    font-size: 16px;
+}
+.menu-heading p {
+    font-size: 17px;
+}
+.fill::placeholder{
+    font-size: 16px;
+}
+.search a {
+    font-size: 17px;
+}
+.trusted-second-section {
+    padding: 76px 0 50px 0;
+}
+.heading {
+    font-size: 30px;
+}
+.paragraph {
+    font-size: 16px;
+}
+.sec-but a {
+    font-size: 16px;
+}
+.caption{
+    font-size: 21px;
+}
+.para {
+    font-size: 15px;
+    text-align: justify;
+}
+
+.review {
+    font-size: 17px;
+}
+ .footer-logo {
+    width: 5%;
+}
+.foot-para, .copy {
+    font-size: 15px;
+}
+.fa-brands {
+    font-size: 21px;
+}
+.footer-title{
+    width: 76%;
+} 
+.works-photo {
+    width: 12%;
+}
+.photo {
+    width: 100%;
+}
+.photo-content h5 {
+    font-size: 19px;
+}
+.testimonial {
+    width: 50%;
+}
+.contact a {
+    font-size: 20px;
+}
+.contact {
+    width: 13%;
+}
+.sec-menu{
+    display: none;
+}
+}
+
+@media (min-width: 992px) {
+    .mobilemenu .menu{
+        display: none;
+    }
+    .right-side{
+        display: block;
+    }
+    .logophoto {
+        width: 6%;
+    }
+    .b-content h1 {
+        font-size: 55px;
+    }
+
+    .background-images .slick-prev {
+        width: 30px;
+        height: 30px;
+    }
+
+    .background-images .slick-next {
+        width: 30px;
+        height: 30px;
+    }
+    .b-content {
+        width: 51%;
+    }
+    .sale-section {
+        bottom: -14%;
+ }
+ .heading {
+    font-size: 35px;
+}
+.paragraph {
+    font-size: 18px;
+    color: grey;
+}
+.caption{
+    font-size: 24px;
+}
+.para {
+    font-size: 16px;
+}
+
+ .footer-logo {
+    width: 5%;
+}
+.foot-para, .copy {
+    font-size: 17px;
+}
+.fa-brands {
+    font-size: 24px;
+} 
+.sec-but a {
+    font-size: 20px;
+}
+.works-photo {
+    width: 12%;
+}
+.photo {
+    width: 100%;
+}
+.photo-content h5 {
+    font-size: 19px;
+}
+.review {
+    font-size: 20px;
+}
+.contact a {
+    font-size: 20px;
+}
+.contact {
+    width: 13%;
+}
+#button {
+    height: 50px;
+    width: 50px;
+}
+#button:after {
+    font-size: 2em;
+    line-height: 52px;
+}
+.sec-menu{
+    display: block;
+}
+}
+
+@media (min-width: 1200px) {
+    .logophoto {
+        width: 6%;
+    }
+
+    .b-content h1 {
+        font-size: 57px;
+    }
+    .b-content p{
+        display: inline-block;
+    }
+    .background-images .slick-prev {
+        display: inline-block !important;
+        width: 30px;
+        height: 30px;
+    }
+
+    .background-images .slick-next {
+        display: inline-block !important;
+        width: 30px;
+        height: 30px;
+    }
+    .sale-section {
+        bottom: -6%;
+ }
+ .menu-heading p {
+    font-size: 22px;
+}
+.title {
+    font-size: 20px;
+}
+.fill {
+    padding: 7px 10px;
+    width: 100%;
+}
+.fill::placeholder{
+    font-size: 20px;
+}
+.search {
+    width: 19%;
+}
+.search a {
+    font-size: 20px;
+}
+.nav-but {
+    padding: 8px 23px;
+    
+}
+
+.heading {
+    font-size: 39px;
+}
+.paragraph {
+    font-size: 21px;
+    color: grey;
+}
+.sec-but a {
+    font-size: 20px;
+}
+.works-photo {
+    width: 12%;
+}
+.caption {
+    font-size: 27px;
+}
+.para {
+    font-size: 18px;
+    text-align: center;
+}
+.photo {
+    width: 100%;
+}
+.photo-content h5 {
+    font-size: 19px;
+}
+
+.testimonial {
+    width: 50%;
+}
+.review {
+    font-size: 20px;
+}
+.contact a {
+    font-size: 20px;
+}
+.contact {
+    width: 13%;
+}
+#button {
+    height: 50px;
+    width: 50px;
+}
+#button:after {
+    font-size: 2em;
+    line-height: 52px;
+}
+.sec-menu{
+    display: block;
+}
+.foot-para, .copy {
+    font-size: 20px;
+}
+.footer-logo {
+    width: 5%;
+}
+}
+
+@media (min-width: 1400px) {
+    .logophoto {
+        width: 6%;
+    }
+    .b-content h1 {
+        font-size: 60px;
+    }
+    .b-content p{
+        display: inline-block;
+    }
+    .background-images .slick-prev {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+    }
+    .background-images .slick-next {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+    }
+    .sale-section {
+        bottom: 1%;
+ }
+ .menu-heading p {
+    font-size: 22px;
+}
+.title {
+    font-size: 20px;
+}
+.fill {
+    padding: 7px 10px;
+    width: 100%;
+}
+.fill::placeholder{
+    font-size: 20px;
+}
+.search {
+    width: 19%;
+}
+.search a {
+    font-size: 20px;
+}
+
+.nav-but {
+    background-color: rgb(23, 159, 238);
+    padding: 8px 23px;
+    border-radius: 22px;
+}
+.heading {
+    font-size: 39px;
+}
+.paragraph {
+    font-size: 21px;
+    color: grey;
+}
+.sec-but a {
+    font-size: 20px;
+}
+.works-photo {
+    width: 12%;
+}
+.caption {
+    font-size: 27px;
+}
+.para {
+    font-size: 18px;
+    text-align: center;
+}
+.photo {
+    width: 100%;
+}
+.photo-content h5 {
+    font-size: 19px;
+}
+.rating{
+    margin-left: 99px;
+}
+.testimonial {
+    width: 50%;
+}
+.review {
+    font-size: 20px;
+}
+.contact a {
+    font-size: 20px;
+}
+.contact {
+    width: 13%;
+}
+#button {
+    height: 50px;
+    width: 50px;
+}
+#button:after {
+    font-size: 2em;
+    line-height: 52px;
+}
+.sec-menu{
+    display: block;
+}
+.foot-para, .copy {
+    font-size: 20px;
+}
+.footer-logo {
+    width: 5%;
+}
+}
